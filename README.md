@@ -1,4 +1,4 @@
-indian-rail-utils
+Indian-Rail-Utils
 =================
 
 Some command line utils for Indian Railways.
